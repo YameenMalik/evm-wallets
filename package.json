@@ -1,0 +1,23 @@
+{
+  "name": "evm-wallets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YameenMalik/evm-wallets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YameenMalik/evm-wallets/issues"
+  },
+  "homepage": "https://github.com/YameenMalik/evm-wallets#readme",
+  "dependencies": {
+    "ethers": "^6.8.0"
+  }
+}
